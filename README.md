@@ -28,9 +28,13 @@ Sample Input 0
 
 4
 3 2 1 3
+
+
 Sample Output 0
 
 2
+
+
 Explanation 0
 
 Candle heights are . The tallest candles are  units, and there are  of them.
